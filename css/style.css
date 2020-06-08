@@ -1,0 +1,58 @@
+body{
+    background-color:#fefffc;
+}
+.wrapper{
+    border: 3px solid #010129;
+    width:80%;
+    margin: 0 auto;
+    background-color: #fffcdd;
+}
+label{
+    font-size: 22px;
+    
+}
+.first_name, .last_name, .father_name, .mother_name,.email,.Password{
+    font-size: 17px;
+    width: 75%;
+    height: 22px;
+    padding: 5px;
+    border: 1px solid #010129;
+}
+.message{
+    width: 80%;
+}
+.button{
+    height: 35px;
+    width: 158px;
+    font-size: 16px;
+    border: none;
+    border-radius: 19px;
+    background: #020829;
+    color: white;
+    margin: 0 auto;
+}
+.heading{
+    text-align: center;
+    color: #042a94;
+}
+table{
+    border: 3px solid black;
+    width: 75%;
+    margin: 0 auto;
+}
+th,td{
+    border: 1px solid black;
+}
+video{
+    height: 350px;
+    margin-top: 50px;
+    margin-left: 372px;
+}
+ifram{
+    margin-left: 400px;
+    margin-top: 33px;
+}
+h1{
+    text-align: center;
+    color: #042a94;
+}
